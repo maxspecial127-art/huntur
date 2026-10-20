@@ -1,0 +1,54 @@
+banner_list = [
+    r"""
+    _   __  ____  ____    _____           _
+   / | / / / __ \/ __ \  /__  /  ___  ___| | ___
+  /  |/ / / / / / / / /    / /  / _ \/ __| |/ _ \
+ / /|  / / /_/ / /_/ /    / /__|  __/ (__| |  __/
+/_/ |_/  \____/_____/    /____/\___/\___|_|\___|
+""",
+]
+
+menu = [
+    """
+    [ PAGE 1 ]
+    1.  Connect Device (WiFi)
+    2.  List Devices
+    3.  Disconnect
+    4.  Scan Network
+    5.  Mirror Screen (scrcpy)
+    6.  Screenshot
+    7.  Screen Record
+    8.  Pull File
+    9.  Push File
+    10. Launch App
+    11. Install APK
+    12. Uninstall App
+    13. List Apps
+    14. ADB Shell
+    """,
+    """
+    [ PAGE 2 ]
+    15. List Files (/sdcard)
+    16. Copy WhatsApp Data
+    17. Copy Screenshots
+    18. Copy Camera Photos
+    19. Open Link on Device
+    20. Device Info
+    21. Battery Info
+    22. Reboot
+    23. Unlock Device
+    24. Lock Device
+    25. Dump SMS
+    26. Dump Contacts
+    27. Dump Call Logs
+    28. Extract APK
+    """,
+    """
+    [ PAGE 3 ]
+    29. Stop ADB Server
+    30. Power Off Device
+    31. Keycode Menu
+    32. Clear Downloads Folder
+    33. Exit
+    """,
+]
